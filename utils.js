@@ -8,3 +8,7 @@ function divide(dividend , divisor) {
     return total;
 }
 
+function power(base, exponent){
+    const total = base ** exponent
+    return total;
+}
