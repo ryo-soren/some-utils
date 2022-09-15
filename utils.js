@@ -12,3 +12,8 @@ function power(base, exponent){
     const total = base ** exponent
     return total;
 }
+
+function subtract(minuend, subtrahend){
+    const total = minuend - subtrahend
+    return total;
+}
