@@ -17,3 +17,15 @@ function subtract(minuend, subtrahend){
     const total = minuend - subtrahend
     return total;
 }
+
+
+// --------------- calebs ----------------
+
+const add = (a, b) => {
+  return a + b;
+}
+
+add(3,4)
+
+
+
